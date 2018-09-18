@@ -1,0 +1,5 @@
+D:\Vinayak Data Back up\Vinayak Data Backup\Vinayak\Docs read\excercise\excercise\bin\Debug\excercise.exe
+D:\Vinayak Data Back up\Vinayak Data Backup\Vinayak\Docs read\excercise\excercise\bin\Debug\excercise.pdb
+D:\Vinayak Data Back up\Vinayak Data Backup\Vinayak\Docs read\excercise\excercise\obj\x86\Debug\excercise.exe
+D:\Vinayak Data Back up\Vinayak Data Backup\Vinayak\Docs read\excercise\excercise\obj\x86\Debug\excercise.pdb
+D:\Vinayak Data Back up\Vinayak Data Backup\Vinayak\Docs read\excercise\excercise\obj\x86\Debug\excercise.csprojResolveAssemblyReference.cache
